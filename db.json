@@ -2,9 +2,61 @@
   "test": [
     {
       "header": {
-        "id": 0,
+        "id": 1,
         "styles": {
           "background": "#90caf9"
+        },
+        "props": {
+          "notification": true,
+          "menu": true,
+          "name": "Home"
+        }
+      }
+    },
+    {
+      "header": {
+        "id": 1,
+        "styles": {
+          "background": "#ab47bc"
+        },
+        "props": {
+          "notification": false,
+          "menu": true,
+          "name": "Home"
+        }
+      }
+    },
+    {
+      "header": {
+        "id": 1,
+        "styles": {
+          "background": "#66bb6a"
+        },
+        "props": {
+          "notification": false,
+          "menu": false,
+          "name": "Home"
+        }
+      }
+    },
+    {
+      "header": {
+        "id": 2,
+        "styles": {
+          "background": "#90caf9"
+        },
+        "props": {
+          "notification": false,
+          "menu": true,
+          "name": "Home"
+        }
+      }
+    },
+    {
+      "header": {
+        "id": 2,
+        "styles": {
+          "background": "#81c784"
         },
         "props": {
           "notification": false,
