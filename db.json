@@ -45,23 +45,17 @@
         "styles": {
           "background": "#90caf9"
         },
-        "props": {
-          "notification": false,
-          "menu": true,
-          "name": "Home"
-        }
+        "props": {}
       }
     },
     {
       "header": {
-        "id": 2,
+        "id": 3,
         "styles": {
           "background": "#81c784"
         },
         "props": {
-          "notification": false,
-          "menu": true,
-          "name": "Home"
+          "logoUrl": "https://here.fm/images/splash/logo.png"
         }
       }
     }
