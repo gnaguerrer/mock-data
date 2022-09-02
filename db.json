@@ -1,15 +1,17 @@
-[
-  {
-    "header": {
-      "id": 0,
-      "styles": {
-        "background": "#90caf9"
-      },
-      "props": {
-        "notification": false,
-        "menu": true,
-        "name": "Home"
+{
+  "test": [
+    {
+      "header": {
+        "id": 0,
+        "styles": {
+          "background": "#90caf9"
+        },
+        "props": {
+          "notification": false,
+          "menu": true,
+          "name": "Home"
+        }
       }
     }
-  }
-]
+  ]
+}
