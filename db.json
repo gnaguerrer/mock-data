@@ -59,5 +59,28 @@
         }
       }
     }
+  ],
+  "markers": [
+    {
+      "namePoint": "Guachacha",
+      "latitude": -33.86,
+      "longitude": 151.2,
+      "imageUrl": "https://www.burnaby.ca/sites/default/files/acquiadam/2021-06/Parks-Fraser-Foreshore.jpg",
+      "description": "Cerca de Santa Marta, en una antigua plantación de coco y a la orilla del mar, existe un oasis llamado Guachaca, donde es posible desconectarse de todo."
+    },
+    {
+      "namePoint": "Palomino",
+      "latitude": -33.76,
+      "longitude": 151.25,
+      "imageUrl": "https://baltimore.org/wp-content/uploads/2020/03/best-parks-and-scenic-running-druid-hill.jpg",
+      "description": "Palomino es uno de los destinos más especiales del Caribe colombiano. Por su ubicación, al sur de la Sierra Nevada de Santa Marta, tiene un paisaje que combina la riqueza de la sierra con el mar Caribe. Además, gracias a los ríos Palomino, San Salvador y Don Diego, es un punto maravilloso para el ecoturismo."
+    },
+    {
+      "namePoint": "Minca",
+      "latitude": -34.76,
+      "longitude": 150.2,
+      "imageUrl": "https://www.burnaby.ca/sites/default/files/acquiadam/2021-06/Parks-Fraser-Foreshore.jpg",
+      "description": "Minca es un corregimiento del distrito de Santa Marta, en el departamento del Magdalena, al norte de Colombia. Está ubicada en las estribaciones de la Sierra Nevada de Santa Marta, a unos 15 km del centro de la ciudad. Minca es la capital ecológica de la Sierra Nevada de Santa Marta. Entre sus atractivos destacan el río, las cascadas de Marinka, Pozo Azul, y Las Piedras, entre otros. También se pueden destacar su agradable clima y su zona cafetera. Últimamente Minca dispone también de muchos hostales que ofrecen a sus huéspedes comodidad y tranquilidad."
+    }
   ]
 }
