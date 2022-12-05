@@ -82,5 +82,30 @@
       "imageUrl": "https://www.burnaby.ca/sites/default/files/acquiadam/2021-06/Parks-Fraser-Foreshore.jpg",
       "description": "Minca es un corregimiento del distrito de Santa Marta, en el departamento del Magdalena, al norte de Colombia. Está ubicada en las estribaciones de la Sierra Nevada de Santa Marta, a unos 15 km del centro de la ciudad. Minca es la capital ecológica de la Sierra Nevada de Santa Marta. Entre sus atractivos destacan el río, las cascadas de Marinka, Pozo Azul, y Las Piedras, entre otros. También se pueden destacar su agradable clima y su zona cafetera. Últimamente Minca dispone también de muchos hostales que ofrecen a sus huéspedes comodidad y tranquilidad."
     }
-  ]
+  ],
+  "places": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {},
+        "geometry": {
+          "coordinates": [25.858853206292025, 0.5345383565451698],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {},
+        "geometry": {
+          "coordinates": [
+            [22.725323172907792, 6.0459950423707625],
+            [33.0443221717002, 9.94904830166962],
+            [34.34382089899859, 14.385872972472612]
+          ],
+          "type": "LineString"
+        }
+      }
+    ]
+  }
 }
