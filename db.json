@@ -85,25 +85,411 @@
   ],
   "places": {
     "type": "FeatureCollection",
+    "crs": {
+      "type": "name",
+      "properties": {
+        "name": "EPSG:4326"
+      }
+    },
     "features": [
       {
         "type": "Feature",
-        "properties": {},
+        "properties": {
+          "title": "North to Minnies Lake",
+          "description": "The run from this intersection to Minnies Lake (day-use shelter) is a great example of what a traditional cypress swamp looks like.  Cypress trees, spanish moss hanging from the branches, etc.",
+          "categories": "[]",
+          "images": "[]",
+          "documents": "[]",
+          "crd": "2022-11-21T05:00:00Z",
+          "upd": "2022-11-21T05:00:00Z"
+        },
         "geometry": {
-          "coordinates": [25.858853206292025, 0.5345383565451698],
-          "type": "Point"
+          "type": "Point",
+          "coordinates": [30.83485643097099, -82.34320477846262]
         }
       },
       {
         "type": "Feature",
-        "properties": {},
+        "properties": {
+          "title": "Ohio Lake",
+          "description": "Snipe, Wood Ducks, lots of birds.  Bring binocs.  Spatterdock?",
+          "categories": "[]",
+          "images": "[]",
+          "documents": "[]",
+          "crd": "2022-11-21T05:00:00Z",
+          "upd": "2022-11-21T05:00:00Z"
+        },
         "geometry": {
-          "coordinates": [
-            [22.725323172907792, 6.0459950423707625],
-            [33.0443221717002, 9.94904830166962],
-            [34.34382089899859, 14.385872972472612]
-          ],
-          "type": "LineString"
+          "type": "Point",
+          "coordinates": [31.01714757132507, -82.20348082607934]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Okefenokee Hooded Pitcher Plants",
+          "description": "Info about these endemic species.  Larger trumpet, etc.  Also keep an eye out on the edge of the trail for parrot pitcher plants through this same stretch.",
+          "categories": "[]",
+          "images": "[]",
+          "documents": "[]",
+          "crd": "2022-11-21T05:00:00Z",
+          "upd": "2022-11-21T05:00:00Z"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [30.91318633968271, -82.14421772340718]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Prairies in the Okefenokee",
+          "description": "Here should be a brief description about what a prairie in the Okefenokee is and that prairies are mostly found on the eastern portion of the swamp",
+          "categories": "[]",
+          "images": "[]",
+          "documents": "[]",
+          "crd": "2022-11-21T05:00:00Z",
+          "upd": "2022-11-21T05:00:00Z"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [30.73613515041297, -82.17462771968512]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Public Boat Launch/Canoe & Kayak Launch",
+          "description": "Public boat ramp, canoe/kayak launching area.  access to many miles of day use as well as overnight camping spots from here.",
+          "categories": "[]",
+          "images": "[]",
+          "documents": "[]",
+          "crd": "2022-11-21T05:00:00Z",
+          "upd": "2022-11-21T05:00:00Z"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [30.73813533357174, -82.14111614386323]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Red Trail - Trumpet PItcher Plants",
+          "description": "On the south side of trail, to the 2 mile marker, look for the trumpet pitcher plants.  Add content about trumpet pitchers, blooming April/May, other details as appropriate.",
+          "categories": "[]",
+          "images": "[]",
+          "documents": "[]",
+          "crd": "2022-11-21T05:00:00Z",
+          "upd": "2022-11-21T05:00:00Z"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [30.95446417206759, -82.15196798760518]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Shelter Cravens Hammock Shel",
+          "description": "This is waypoint no: 1",
+          "categories": "[]",
+          "images": "[]",
+          "documents": "[]",
+          "crd": "2022-11-21T05:00:00Z",
+          "upd": "2022-11-21T05:00:00Z"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [30.886609, -82.417715]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Shelter Minnies Lake Shelter",
+          "description": "This is waypoint no: 2",
+          "categories": "[]",
+          "images": "[]",
+          "documents": "[]",
+          "crd": "2022-11-21T05:00:00Z",
+          "upd": "2022-11-21T05:00:00Z"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [30.861278, -82.323517]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Shelter Big Water Shelter",
+          "description": "This is waypoint no: 3",
+          "categories": "[]",
+          "images": "[]",
+          "documents": "[]",
+          "crd": "2022-11-21T05:00:00Z",
+          "upd": "2022-11-21T05:00:00Z"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [30.937824, -82.280198]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Shelter Floyds Island Cabin",
+          "description": "This is waypoint no: 4",
+          "categories": "[]",
+          "images": "[]",
+          "documents": "[]",
+          "crd": "2022-11-21T05:00:00Z",
+          "upd": "2022-11-21T05:00:00Z"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [30.85733, -82.26685]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Shelter Maul Hammock Shelter",
+          "description": "This is waypoint no: 5",
+          "categories": "[]",
+          "images": "[]",
+          "documents": "[]",
+          "crd": "2022-11-21T05:00:00Z",
+          "upd": "2022-11-21T05:00:00Z"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [31.015877, -82.256785]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Shelter Bluff Lake Shelter",
+          "description": "This is waypoint no: 6",
+          "categories": "[]",
+          "images": "[]",
+          "documents": "[]",
+          "crd": "2022-11-21T05:00:00Z",
+          "upd": "2022-11-21T05:00:00Z"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [30.878248, -82.150633]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Shelter Round Top Shelter",
+          "description": "This is waypoint no: 7",
+          "categories": "[]",
+          "images": "[]",
+          "documents": "[]",
+          "crd": "2022-11-21T05:00:00Z",
+          "upd": "2022-11-21T05:00:00Z"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [30.803627, -82.220107]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Shelter Canal Run Shelter",
+          "description": "This is waypoint no: 8",
+          "categories": "[]",
+          "images": "[]",
+          "documents": "[]",
+          "crd": "2022-11-21T05:00:00Z",
+          "upd": "2022-11-21T05:00:00Z"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [30.816432, -82.259313]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Shelter Coffee Bay Shelter",
+          "description": "This is waypoint no: 9",
+          "categories": "[]",
+          "images": "[]",
+          "documents": "[]",
+          "crd": "2022-11-21T05:00:00Z",
+          "upd": "2022-11-21T05:00:00Z"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [30.761655, -82.227116]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Shelter Monkey Lake Shelter",
+          "description": "This is waypoint no: 10",
+          "categories": "[]",
+          "images": "[]",
+          "documents": "[]",
+          "crd": "2022-11-21T05:00:00Z",
+          "upd": "2022-11-21T05:00:00Z"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [30.674445, -82.206005]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Shelter Mizell Prairie Shelt",
+          "description": "This is waypoint no: 11",
+          "categories": "[]",
+          "images": "[]",
+          "documents": "[]",
+          "crd": "2022-11-21T05:00:00Z",
+          "upd": "2022-11-21T05:00:00Z"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [30.756398, -82.169397]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Shelter Restroom",
+          "description": "This is waypoint no: 12",
+          "categories": "[]",
+          "images": "[]",
+          "documents": "[]",
+          "crd": "2022-11-21T05:00:00Z",
+          "upd": "2022-11-21T05:00:00Z"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [30.743032, -82.179458]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Shelter Mixons Hammock",
+          "description": "This is waypoint no: 13",
+          "categories": "[]",
+          "images": "[]",
+          "documents": "[]",
+          "crd": "2022-11-21T05:00:00Z",
+          "upd": "2022-11-21T05:00:00Z"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [30.824063, -82.3815]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Stay straight",
+          "description": "Stay straight to get to Floyds Island/Green Trail intersection.  People can paddle this loop - the refuge has a water monitoring station on this loop trail.",
+          "categories": "[]",
+          "images": "[]",
+          "documents": "[]",
+          "crd": "2022-11-21T05:00:00Z",
+          "upd": "2022-11-21T05:00:00Z"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [30.84284647573626, -82.251611696983]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Stay to the right to get the Maul Hammock",
+          "description": "Maul Hammock",
+          "categories": "[]",
+          "images": "[]",
+          "documents": "[]",
+          "crd": "2022-11-21T05:00:00Z",
+          "upd": "2022-11-21T05:00:00Z"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [30.98833054870131, -82.18873219492318]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Stephen C Foster State Park",
+          "description": "Boat Ramp, Boat Rental, Canoe/Kayak Rental.  Cabins, RV, Tent camping.  Access to day use and overnight trails.",
+          "categories": "[]",
+          "images": "[]",
+          "documents": "[]",
+          "crd": "2022-11-21T05:00:00Z",
+          "upd": "2022-11-21T05:00:00Z"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [30.82670549035673, -82.361680771196]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Suwannee River Sill",
+          "description": "Info about Sill and Suwannee River.",
+          "categories": "[]",
+          "images": "[]",
+          "documents": "[]",
+          "crd": "2022-11-21T05:00:00Z",
+          "upd": "2022-11-21T05:00:00Z"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [30.80326832661419, -82.41756318588979]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Take your pick",
+          "description": "Both sides end up at the same spot",
+          "categories": "[]",
+          "images": "[]",
+          "documents": "[]",
+          "crd": "2022-11-21T05:00:00Z",
+          "upd": "2022-11-21T05:00:00Z"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [30.94763540250971, -82.15472455763332]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Tater Rake Run",
+          "description": "Turn to the right to go on the Tater Rake Run (day-use trail).  This trail will take you back to the Suwannee Canal (Orange Trail).",
+          "categories": "[]",
+          "images": "[]",
+          "documents": "[]",
+          "crd": "2022-11-21T05:00:00Z",
+          "upd": "2022-11-21T05:00:00Z"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [30.72581241348556, -82.18252985983376]
         }
       }
     ]
