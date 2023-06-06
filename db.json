@@ -1,3 +1,8 @@
 {
-  "category": [{ "name": "Comida Rapida" }]
+  "category": [
+    { "id": 1, "name": "Comida Rapida" },
+    { "id": 2, "name": "Bebidas" },
+    { "id": 3, "name": "Helados" },
+    { "id": 4, "name": "mariscos" }
+  ]
 }
